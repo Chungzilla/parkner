@@ -29,7 +29,7 @@ Password: password
 
 <img src="https://media.giphy.com/media/VYYVEWEeSdYwo/giphy.gif">
 
-> Currently, the location services used only pulls data for New York City and California. While the rest of the app will still function, you will only be able to view the map if you are physically located in those two areas.
+Currently, the location services used only pulls data for New York City and California. While the rest of the app will still function, you will only be able to view the map if you are physically located in those two areas.
 
 ## Built With
 - [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) - HTML API used to grab user's current location
