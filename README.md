@@ -37,16 +37,15 @@ Currently, the location services used only pulls data for New York City and Cali
 - [Geocodio](https://www.geocod.io/) - parses latitude and longitude coordinates into address stings
 - [Ruby](https://www.ruby-lang.org/en/) - programming lanuguage used 
 - [Rails](https://rubyonrails.org/) - domain-specific languange and Ruby gem
+- [Devise](https://github.com/plataformatec/devise) - comprehensive authentication solution used to ensure data integrity
 - [Bootstrap](https://github.com/twbs/bootstrap-rubygem) - front-end framework for styling
 - [PostgreSQL](https://www.postgresql.org/) - relational database structure
 
 ## Authors
-- [**Lillian Ngo**](https://github.com/ngolilli94) - Project Lead - Database structure, design, and user flow
-- [**Jazmine Chung**](https://github.com/chungzilla) - Team Member - Authentication/data integrity, design, database structure, and user flow
-- [**Jorge Navarro**](https://github.com/Jnavarr56) - Team Member - JavaScript GPS algorithm, ActiveJob email system, design, and user flow
-- [**Ben Wexler**](https://github.com/benjwexler) - Team Member - Mobile responsiveness, ActiveJob email system, design, and user flow
-
-
+- [**Lillian Ngo**](https://github.com/ngolilli94) - **Project Lead** - Database structure, design, and user flow
+- [**Jazmine Chung**](https://github.com/chungzilla) - **Team Member** - Authentication/data integrity, design, database structure, and user flow
+- [**Jorge Navarro**](https://github.com/Jnavarr56) - **Team Member** - JavaScript GPS algorithm, ActiveJob email system, design, and user flow
+- [**Ben Wexler**](https://github.com/benjwexler) - **Team Member** - Mobile responsiveness, ActiveJob email system, design, and user flow
 
 
 
