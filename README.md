@@ -25,9 +25,10 @@ Email: demo@parkner.com
 Password: password
 ```
 
+### Please Note
+
 <img src="https://media.giphy.com/media/VYYVEWEeSdYwo/giphy.gif">
 
-**Please Note**
 > Currently, the location services used only pulls data for New York City and California. WHile the rest of the app will still function, you will only be able to view the map if you are physically located in those two areas.
 
 ## Built With
